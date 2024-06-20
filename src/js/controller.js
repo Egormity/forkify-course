@@ -136,6 +136,6 @@ const init = function () {
 init();
 
 const newFeature = function () {
-  console.log('Welcome !');
+  console.log('Welcome !!!');
 };
 newFeature();
